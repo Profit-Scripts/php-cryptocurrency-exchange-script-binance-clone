@@ -39,9 +39,9 @@ This is a **ready-to-launch crypto exchange solution** — suitable for startups
 ## 💰 Pricing
 | License Type | Description | Price |
 |---------------|-------------|--------|
-| 💼 Standard | Full source code + installation guide | **$2,499** |
-| 🚀 Extended | Full code + installation + setup + branding | **$3,499** |
-| 🏦 Enterprise | Extended + lifetime support & updates | **$5,999** |
+| 💼 Standard | Full source code + installation guide | **$1,499** |
+| 🚀 Extended | Full code + installation + setup + branding | **$2,499** |
+| 🏦 Enterprise | Extended + lifetime support & updates | **$3,999** |
 
 ✅ One-time payment — no monthly fees.  
 💬 Custom modifications are available upon request.
