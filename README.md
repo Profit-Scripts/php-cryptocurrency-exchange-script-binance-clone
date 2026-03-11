@@ -10,7 +10,7 @@ This is a **ready-to-launch crypto exchange solution** — suitable for startups
 
 --- 
 
-## ⚙️ Main Features
+## ⚙️ Main Features 
 
 ### 🧩 Core Functionality
 - Spot Trading (Limit / Market / Stop-Limit orders)  
