@@ -49,9 +49,9 @@ This is a **ready-to-launch crypto exchange solution** — suitable for startups
 ---
 
 ## 🌐 Useful Links
-- 🏠 **Main website:** [https://profitscripts.asia/](https://profitscripts.asia/)  
-- 💬 **Telegram:** [@ProfitScripts](https://t.me/ProfitScripts)  
-- 📧 **Email:** profitscripts@gmail.com  
+- 🏠 **Main website:** [https://mintscripts.net/](https://mintscripts.net/)  
+- 💬 **Telegram:** [@ProfitScripts](https://t.me/MintScripts)  
+- 📧 **Email:** support@mintscripts.net 
 
 ---
 
