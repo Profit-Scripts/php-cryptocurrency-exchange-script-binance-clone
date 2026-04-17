@@ -50,7 +50,7 @@ This is a **ready-to-launch crypto exchange solution** — suitable for startups
 
 ## 🌐 Useful Links
 - 🏠 **Main website:** [https://mintscripts.net/](https://mintscripts.net/)  
-- 💬 **Telegram:** [@ProfitScripts](https://t.me/MintScripts)  
+- 💬 **Telegram:** [@MintScripts](https://t.me/MintScripts)  
 - 📧 **Email:** support@mintscripts.net 
 
 ---
