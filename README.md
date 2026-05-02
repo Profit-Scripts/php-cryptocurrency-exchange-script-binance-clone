@@ -60,4 +60,4 @@ This is a **ready-to-launch crypto exchange solution** — suitable for startups
 
 ---
 
-✨ **Develop your next crypto project with ProfitScripts — the foundation of your exchange, token or trading platform.**
+✨ **Develop your next crypto project with Mint Scripts — the foundation of your exchange, token or trading platform.**
