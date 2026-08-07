@@ -16,7 +16,7 @@ If you want to deployment a production-ready **php cryptocurrency exchange scrip
 
 This repository contains the optimized **Open Source Core** of the platform architecture. The fully featured premium framework version is engineered specifically for fintech startups, crypto entrepreneurs, and web developers looking to build a secure, scalable trading platform like Binance or Bybit with zero operational restrictions.
 
-👉 **[DOWNLOAD OFFICIAL BINANCE CLONE PHP SCRIPT CORE V1.0](https://mintscripts.net/)**
+👉 **[DOWNLOAD OFFICIAL BINANCE CLONE PHP SCRIPT CORE V1.0](https://mintscripts.net/en/market/9-kupit-skript-kriptobirzhi-cryptoempire-gotovyj-biznes-pod-kljuch-source-code.html)**
 
 ---
 
